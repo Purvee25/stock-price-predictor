@@ -14,3 +14,5 @@ from predictor import StockPredictor
 sp = StockPredictor()
 prediction = sp.predict("AAPL", days=30)
 ```
+## Contributing
+Pull requests welcome.
